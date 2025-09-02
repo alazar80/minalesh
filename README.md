@@ -25,7 +25,7 @@
 - **Web server:** PHP built-in server (dev) or Apache/Nginx (prod)
 
 ---
-(./minalesh.jpg)
+![Braydon's GitHub Banner](./minalesh.jpg)
 ---
 
 ## ✅ Requirements
